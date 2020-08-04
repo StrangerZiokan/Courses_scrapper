@@ -1,0 +1,25 @@
+{
+  "name": "udemy-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.22",
+    "puppeteer": "^5.0.0",
+    "puppeteer-extra": "^3.1.12",
+    "puppeteer-extra-plugin-stealth": "^2.4.12"
+  },
+  "devDependencies": {
+    "bufferutil": "^4.0.1",
+    "nodemon": "^2.0.4",
+    "utf-8-validate": "^5.0.2"
+  }
+}
